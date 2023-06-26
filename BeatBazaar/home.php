@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BeatBazaar</title>
     <link rel="stylesheet" type="text/css" href="css/estilos.css">
+    <script src="https://kit.fontawesome.com/c6765a010a.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
@@ -19,6 +20,7 @@
                 </div>
             </div>
             <div class="container_menu">
+                        
                  <div class="menu">
                     
                     <nav>
@@ -40,15 +42,11 @@
                     </nav>
                  </div>
              
-
             </div>
             <div>
-       
-       
+          
     </header>
 
- 
-        
         <div class="container-items">
             <div class="items">
                 <figure>
@@ -111,6 +109,19 @@
                     <p class="precio">2500$</p>
                     <button>Añadir al carrito</button>
                 </div>
+                
+                </div>
+                <div class="items">
+                <figure>
+                    <img src="imagenes/productos/album2.jpg">
+                </figure>
+                <div class="infoproducto">
+                    <h2>Thriller Album</h2>
+                    <p class="precio">100000$</p>
+                    <button>Añadir al carrito</button>
+                </div>
+
+
             </div>      
 </body>
 </html>
