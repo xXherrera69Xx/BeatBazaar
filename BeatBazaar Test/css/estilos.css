@@ -1,0 +1,29 @@
+main > .container{
+    padding: 30px 0;
+}
+
+
+.logo{
+    width: 50px;
+    height: 10%;
+
+}
+
+.micarrito{
+    padding: 5px 10px;
+
+}
+
+.carousel-inner{
+
+    margin-top: 1rem;
+}
+
+.carousel-item{
+    height: 50rem;
+    background: gray;
+    color: aqua;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
