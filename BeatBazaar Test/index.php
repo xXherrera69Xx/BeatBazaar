@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>BeatBazaar</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link href="css/estilos.css" rel="stylesheet">
     
@@ -40,11 +40,35 @@
         <img class="logo" src="imagenes/logo.jpg">
         
         <strong>BeatBazaar</strong>
-        <button type="button" class="btn btn-outline-info">Categorias</button>
+        <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Categoria</a></li>
+    <li><a class="dropdown-item" href="#">Ofertas</a></li>
+    <li><a class="dropdown-item" href="#"></a></li>
+  </ul>
+</div>
       
       </a>
-      <button type="button" class="btn btn-outline-danger">Danger</button>
-      
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Buscador" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Buscar</button>
+        <a href="session.php">
+        <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="session.php">Iniciar session</a></li>
+    <li><a class="dropdown-item" href="#">Cerrar</a></li>
+
+  </ul>
+</div>
+        </a>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
