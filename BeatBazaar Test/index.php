@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BeatBazaar</title>
+    <link rel="icon"  type="image/x-icon" href="/imagenes/logo.jpg">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link href="css/estilos.css" rel="stylesheet">
+ 
     
    
   </head>
@@ -41,12 +43,10 @@
         
         <strong>BeatBazaar</strong>
         <div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Dropdown link
-  </a>
+  
 
   <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="#">Categoria</a></li>
+    <li><a class="dropdown-item" href="#">Categorias</a></li>
     <li><a class="dropdown-item" href="#">Ofertas</a></li>
     <li><a class="dropdown-item" href="#"></a></li>
   </ul>
@@ -59,12 +59,14 @@
         <a href="session.php">
         <div class="dropdown">
   <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Dropdown link
+    Session
   </a>
 
   <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="session.php">Iniciar session</a></li>
-    <li><a class="dropdown-item" href="#">Cerrar</a></li>
+    <li><a class="dropdown-item" href="session.php">Iniciar sesion</a></li>
+    <li><a class="dropdown-item" href="#">Cerrar sesion</a></li>
+    <li><a class="dropdown-item" href="crearcuenta.php">Crear Cuenta</a></li>
+    <li><a class="dropdown-item" href="crearcuenta.php">:v</a></li>
 
   </ul>
 </div>
@@ -123,6 +125,7 @@
 <main>
   <div class="container">
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+       <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/centralnuc.jpeg">
@@ -140,6 +143,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/c.jpeg">
@@ -157,6 +161,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/a0816289173_16.jpg">
@@ -174,6 +179,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/uufo.jpg">
@@ -191,6 +197,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/gaby.jpeg">
@@ -208,6 +215,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/acdcremera.jpg">
@@ -225,6 +233,7 @@
             </div>
           </div>
         </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/theblue.jpg">
@@ -242,6 +251,26 @@
             </div>
           </div>
         </div>
+           <!--Carta sus2-->
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/productos/album2.jpg">
+           
+            <div class="card-body">
+              <h5 class="card-text">Álbum "Bad" </h5>
+              <p class="card-text">$2500</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                <button type="button" class="btn btn-outline-info">Detalles</button>
+                 
+                </div>
+                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+           <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/album2.jpg">
@@ -255,10 +284,12 @@
                  
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+                
               </div>
             </div>
           </div>
         </div>
+
   </div>
 </main>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>

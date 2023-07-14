@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+
 main > .container{
     padding: 30px 0;
 }
@@ -14,6 +18,9 @@ main > .container{
 .carousel-inner{
 
     margin-top: 1rem;
+   font-family:  'Outfit', sans-serif;
+   font-size: 20px;
+
 }
 
 .carousel-item{
@@ -24,3 +31,4 @@ main > .container{
     background-size: cover;
     background-position: center;
 }
+
