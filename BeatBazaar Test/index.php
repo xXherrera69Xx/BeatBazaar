@@ -400,11 +400,11 @@
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/Guitarrapro.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Guitarra criolla</h5>
+              <p class="card-text">$31058</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -419,11 +419,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/guitarraelec.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Guitarra electrica </h5>
+              <p class="card-text">$100000</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -438,11 +438,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/pastillas.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Pastilla de Guitarra</h5>
+              <p class="card-text">$5500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -457,11 +457,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/violinXD.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Violin</h5>
+              <p class="card-text">$12500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -476,11 +476,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/amplificador.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Amplificador</h5>
+              <p class="card-text">$50000</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -495,11 +495,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/korn.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Álbum "Korn" </h5>
+              <p class="card-text">$25000</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -514,11 +514,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/nirvanacara.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Remera Nirvana</h5>
+              <p class="card-text">$2600</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -533,11 +533,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/sodaremera.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Remera Soda Estereo</h5>
+              <p class="card-text">$2900</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -552,11 +552,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/Mayhem.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
+              <p class="card-text">$3500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -571,11 +571,11 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/album2.jpg">
+            <img src="imagenes/productos/micro.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Bad" </h5>
-              <p class="card-text">$2500</p>
+              <h5 class="card-text">Microfono</h5>
+              <p class="card-text">$5500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
