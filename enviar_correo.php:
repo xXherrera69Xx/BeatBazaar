@@ -1,0 +1,22 @@
+<?php
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $nombre = $_POST['nombre'];
+    $email = $_POST['email'];
+    $asunto = $_POST['asunto'];
+    $mensaje = $_POST['mensaje'];
+
+    $destinatario = 'contacto@example.com'; // Cambia esta dirección de correo electrónico por la tuya
+
+    $cabeceras = "From: $nombre <$email>\r\n";
+    $cabeceras .= "Reply-To: $email\r\n";
+
+    // Enviamos el correo
+    if (mail($destinatario, $asunto, $mensaje, $cabeceras)) {
+        echo "<h1>Mensaje enviado correctamente</h1>";
+    } else {
+        echo "<h1>Error al enviar el mensaje</h1>";
+    }
+} else {
+    echo "<h1>Error en la solicitud</h1>";
+}
+?>
