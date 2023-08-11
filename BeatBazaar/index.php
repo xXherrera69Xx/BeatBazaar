@@ -30,7 +30,7 @@
           <div class="col-sm-4 offset-md-1 py-4">
             <h4>Contacto</h4>
             <ul class="list-unstyled">
-              <li><a href="#" class="text-white">Soporte</a></li>
+              <li><a href="soporte.php" class="text-white">Soporte</a></li>
               <li><a href="#" class="text-white">Preguntas Frecuentes</a></li>
               <li><a href="#" class="text-white">Contacta con nosotros</a></li>
             </ul>
@@ -267,7 +267,8 @@
               <p class="card-text">$2500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-outline-info">Detalles</button>
+                <button type="button" class="btn btn-primary" id="liveAlertBtn">Show live alert</button>
+
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
@@ -596,11 +597,11 @@
  <!--Carta sus2-->
  <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/Mayhem.jpg">
+            <img src="imagenes/productos/album9.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
-              <p class="card-text">$3500</p>
+              <h5 class="card-text">Álbum "Clics Modernos" </h5>
+              <p class="card-text">$35000</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -683,6 +684,82 @@
             </div>
           </div>
         </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/productos/bohemian.jpg">
+
+            <div class="card-body">
+              <h5 class="card-text">Album Bohemian Rhapsody</h5>
+              <p class="card-text">$15000</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-outline-info">Detalles</button>
+
+                </div>
+                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/productos/pedalera.jpg">
+
+            <div class="card-body">
+              <h5 class="card-text">Pedalera</h5>
+              <p class="card-text">$300000</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-outline-info">Detalles</button>
+
+                </div>
+                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/productos/mesa.jpg">
+
+            <div class="card-body">
+              <h5 class="card-text">torno mesa</h5>
+              <p class="card-text">$2000000</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-outline-info">Detalles</button>
+
+                </div>
+                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="imagenes/productos/bateria.webp">
+
+            <div class="card-body">
+              <h5 class="card-text">bateria natal</h5>
+              <p class="card-text">$200000000</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-outline-info">Detalles</button>
+
+                </div>
+                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
       
       <nav aria-label="Page navigation example">
