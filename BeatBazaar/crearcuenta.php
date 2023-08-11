@@ -6,51 +6,42 @@
     <title>Crear cuenta en BeatBazaar</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   <link href="css/estilos.css" rel="stylesheet">
+  <script src="../js/bootstrap.js"></script>
 </head>
 <body>
 <main>
-<img class="logo2" src="imagenes/logopiola.jpg">
+<img class="logo" src="imagenes/logoazul.png">
 
     <H1 class="titulo" >Registrarse en BeatBazaar</H1>
+    <form action="" method="POST">
 <form class="row g-3">
   <div class="col-md-6">
     <label for="inputAdrees" class="form-label">Nombre</label>
-    <input type="text" class="form-control" id="inputEmail4" placeholder="Tu nombre aqui">
+    <input type="text" name="nombre" class="form-control" id="inputEmail4" placeholder="Tu nombre aqui">
   </div>
   <div class="col-md-6">
     <label for="inputAddres2" class="form-label">Apellido</label>
-    <input type="text" class="form-control" id="inputPassword4"placeholder="Tu Apellido aqui">
+    <input type="text" name="apellido" class="form-control" id="inputPassword4"placeholder="Tu Apellido aqui">
   </div>
   <div class="col-12">
     <label for="inputPassword" class="form-label">Contraseña</label>
-    <input type="password" class="form-control" id="inputAddress" placeholder="Minimo 8 caracteres con signos, numeros y caraceteres especiales, con dni">
+    <input type="password" name="contraseña" class="form-control" id="inputAddress" placeholder="Minimo 8 caracteres con signos, numeros y caraceteres especiales, con dni">
   </div>
   </div>
   <div class="col-12">
     <label for="inputEmail" class="form-label">Correo electrico</label>
-    <input type="email" class="form-control" id="inputAddress2" placeholder="Tu correo aca">
+    <input type="email" name="corrreo" class="form-control" id="inputAddress2" placeholder="Tu correo aca">
   </div>
   <div class="col-md-6">
     <label for="inputCity" class="form-label">Ciudad</label>
-    <input type="text" class="form-control" id="inputCity" placeholder="Buenos Aires">
+    <input type="text" name="ciudad" class="form-control" id="inputCity" placeholder="Buenos Aires">
   </div>
   <div class="col-md-6">
     <label for="inputCity" class="form-label">Pais</label>
-    <input type="text" class="form-control" id="inputCity" placeholder="Niger">
+    <input type="text" name="pais" class="form-control" id="inputCity" placeholder="Niger">
   </div>
-  <div class="col-md-4">
-    <label for="inputState" class="form-label">Genero</label>
-    <select id="inputState" class="form-select">
-      <option selected>Hombre</option>
-      <option>Mujer</option>
-      <option>Bugatti veyron</option>
-      <option>2010 Bentley Continental Supersports</option>
-    </select>
-  </div>
-  <div class="col-md-2">
-    <label for="inputZip" class="form-label">Contraseña de tu cuenta bancaria</label>
-    <input type="text" class="form-control" id="inputZip">
-  </div>
+  
+ 
   <div class="col-12">
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="gridCheck">

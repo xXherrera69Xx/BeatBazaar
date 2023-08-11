@@ -8,10 +8,11 @@
   <link rel="icon" type="image/x-icon" href="/imagenes/logo.jpg">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   <link href="css/estilos.css" rel="stylesheet">
+   <script src="../js/bootstrap.js"></script>
 
 
 
-</head>
+
 
 </head>
 
@@ -40,7 +41,7 @@
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container">
         <a href="#" class="navbar-brand d-flex align-items-center">
-          <img class="logo" src="imagenes/logo.jpg">
+          <img class="logo" src="imagenes/logoazul.png">
 
           <strong>BeatBazaar</strong>
           <div class="dropdown">
@@ -254,11 +255,13 @@
   <main>
     <div class="container">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <?php foreach ($resultado as $row) { ?> <!--no tocar-->
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
+       <!--testeo de algo aun por investigar-->  
+      
             <img src="imagenes/productos/centralnuc.jpeg">
-
             <div class="card-body">
               <h5 class="card-text">Álbum "Central Nucleus" </h5>
               <p class="card-text">$2500</p>
@@ -269,6 +272,7 @@
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
               </div>
+              <?php } ?>
             </div>
           </div>
         </div>
@@ -619,10 +623,8 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
-
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
-
               </div>
             </div>
           </div>
@@ -630,11 +632,11 @@
          <!--Carta sus2-->
          <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/Mayhem.jpg">
+            <img src="imagenes/productos/ironmaidenaces.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
-              <p class="card-text">$3500</p>
+              <h5 class="card-text">Mascara Iron Maiden</h5>
+              <p class="card-text">$4000</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -649,11 +651,11 @@
          <!--Carta sus2-->
          <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/Mayhem.jpg">
+            <img src="imagenes/productos/posterironmaiden.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
-              <p class="card-text">$3500</p>
+              <h5 class="card-text">Poster Iron Maiden</h5>
+              <p class="card-text">$1500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
@@ -668,23 +670,21 @@
          <!--Carta sus2-->
          <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/Mayhem.jpg">
-
+            <img src="imagenes/productos/gorrarenga.jpg">
             <div class="card-body">
-              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
-              <p class="card-text">$3500</p>
+              <h5 class="card-text">Gorra La Renga</h5>
+              <p class="card-text">$5100</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
-
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
-
               </div>
             </div>
           </div>
         </div>
       </div>
+      
       <nav aria-label="Page navigation example">
   <ul class="pagination justify-content-center">
     <li class="page-item disabled">
