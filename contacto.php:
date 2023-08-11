@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Formulario de Contacto</title>
+</head>
+<body>
+    <h1>Contacto</h1>
+    <form method="post" action="enviar_correo.php">
+        <label for="nombre">Nombre:</label>
+        <input type="text" name="nombre" id="nombre" required><br><br>
+
+        <label for="email">Correo electrónico:</label>
+        <input type="email" name="email" id="email" required><br><br>
+
+        <label for="asunto">Asunto:</label>
+        <input type="text" name="asunto" id="asunto" required><br><br>
+
+        <label for="mensaje">Mensaje:</label><br>
+        <textarea name="mensaje" id="mensaje" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
