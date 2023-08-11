@@ -255,13 +255,13 @@
   <main>
     <div class="container">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-      <?php foreach ($resultado as $row) { ?> <!--no tocar-->
+  <!--no tocar-->
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
        <!--testeo de algo aun por investigar-->  
       
-            <img src="imagenes/productos/centralnuc.jpeg">
+            <img src="imagenes/productos/4/centralnuc.jpeg">
             <div class="card-body">
               <h5 class="card-text">Álbum "Central Nucleus" </h5>
               <p class="card-text">$2500</p>
@@ -272,14 +272,14 @@
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
               </div>
-              <?php } ?>
+           
             </div>
           </div>
         </div>
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/c.jpeg">
+            <img src="imagenes/productos/3/c.jpeg">
 
             <div class="card-body">
               <h5 class="card-text">Álbum "C" </h5>
@@ -297,7 +297,7 @@
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/a0816289173_16.jpg">
+            <img src="imagenes/productos/2/a0816289173_16.jpg">
 
             <div class="card-body">
               <h5 class="card-text">Álbum "Jidhadvent" </h5>
@@ -315,7 +315,7 @@
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/uufo.jpg">
+            <img src="imagenes/productos/1/uufo.jpg">
 
             <div class="card-body">
               <h5 class="card-text">Álbum "U.U.F.O" </h5>
@@ -333,7 +333,7 @@
         <!--Carta sus-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/gaby.jpeg">
+            <img src="imagenes/productos/5/gaby.jpeg">
 
             <div class="card-body">
               <h5 class="card-text">Álbum "GABRiELLA" </h5>
@@ -615,10 +615,10 @@
          <!--Carta sus2-->
          <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/Mayhem.jpg">
+            <img src="imagenes/productos/informorph.jpg">
 
             <div class="card-body">
-              <h5 class="card-text">Álbum "Mistery Down Satanas" </h5>
+              <h5 class="card-text">Álbum "informorph"</h5>
               <p class="card-text">$3500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
