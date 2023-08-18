@@ -779,6 +779,68 @@
 </nav>
 
   </main>
+
+<footer class="footer-distributed">
+
+			<div class="footer-left">
+
+				<h3><img class="logo" src="imagenes/logoazul.png"> BeatBazaar</h3>
+
+				<p class="footer-links">
+					<a href="#" class="link-1">Home</a>
+					
+					<a href="#">Blog</a>
+				
+					<a href="#">Precios</a>
+				
+					<a href="#">About</a>
+					
+					<a href="#">Afiliados</a>
+					
+					<a href="#">Contact</a>
+				</p>
+
+				<p class="footer-company-name">BeatBazaar copright © 2023, inc</p>
+			</div>
+
+			<div class="footer-center">
+
+				<div>
+					<i class="fa fa-map-marker"></i>
+					<p><span>Av.9 de julio</span> CABA Buenos Aires sas </p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>+54 9 11 3790-0027</p>
+				</div>
+
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:support@company.com">support@companyBeatbazaar.com</a></p>
+				</div>
+
+			</div>
+
+			<div class="footer-right">
+
+				<p class="footer-company-about">
+					<span>Sobre la empresa</span>
+					El cliente debe estar muy contento, somos una compañia pequeña.
+				</p>
+
+				<div class="footer-icons">
+
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="fa fa-github"></i></a>
+
+				</div>
+
+			</div>
+
+		</footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 
 </body>
