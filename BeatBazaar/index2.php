@@ -1,3 +1,24 @@
+<?php
+
+session_start();
+
+if(!isset($_SESSION['usuario'])){
+
+  echo'
+      <script>
+      
+      alert("debes iniciar session en BeatBazaar");
+      window.location = "index.php";
+      </script>  
+  ';
+  header(("location: index.php"));
+  session_destroy();
+  die();
+
+}
+
+
+?>
 
 
 <!DOCTYPE html>
@@ -73,7 +94,7 @@
                   <li><a href="crearcuenta.php" class="hmenu-item" data-menu-id="3" data-ref-tag="nav_em_1_1_1_3">
                       <div>Crear cuenta</div><i class="nav-sprite hmenu-arrow-next"></i>
                     </a></li>
-                  <li><a href="perfil.php" class="hmenu-item" data-menu-id="4" data-ref-tag="nav_em_1_1_1_4">
+                  <li><a href="" class="hmenu-item" data-menu-id="4" data-ref-tag="nav_em_1_1_1_4">
                       <div>Amazon Appstore</div><i class="nav-sprite hmenu-arrow-next"></i>
                     </a></li>
                   <li class="hmenu-separator"></li>
@@ -830,7 +851,7 @@
 				<div class="footer-icons">
 
 					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="https://twitter.com/?lang=es"><i class="fa-brands fa-twitter fa-fade" style="color: #00e1ff;"></i>></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
 					<a href="#"><i class="fa fa-linkedin"></i></a>
 					<a href="#"><i class="fa fa-github"></i></a>
 

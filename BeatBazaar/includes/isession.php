@@ -10,7 +10,7 @@ $contraseña = $_POST['contraseña'];
 
 $validar_login = mysqli_query($conn, "SELECT * FROM  usuarios WHERE Correo='$correo' and Contraseña='$contraseña'");
 
-/*if(mysqli_num_rows($validar_login) > 0){
+if(mysqli_num_rows($validar_login) > 0){
     $_SESSION['usuario'] = $correo;
     header("location: index.php");
     exit;
@@ -23,7 +23,7 @@ echo'
 ';
 exit;
 
-}*/
+}
 
 ?>
 

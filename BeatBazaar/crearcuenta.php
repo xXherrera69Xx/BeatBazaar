@@ -36,6 +36,7 @@
    <input class="btn" type="submit" name="register" value="Registrarse">
 
    <a href="session.php"><p>Ya tienes una cuenta?</p></a>
+   <a href="index.php"><h3>hola</h3>
 
 </form>
 <?php
