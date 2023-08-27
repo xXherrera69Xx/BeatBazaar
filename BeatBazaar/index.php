@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -73,7 +72,7 @@
                   <li><a href="crearcuenta.php" class="hmenu-item" data-menu-id="3" data-ref-tag="nav_em_1_1_1_3">
                       <div>Crear cuenta</div><i class="nav-sprite hmenu-arrow-next"></i>
                     </a></li>
-                  <li><a href="perfil.php" class="hmenu-item" data-menu-id="4" data-ref-tag="nav_em_1_1_1_4">
+                  <li><a href="" class="hmenu-item" data-menu-id="4" data-ref-tag="nav_em_1_1_1_4">
                       <div>Amazon Appstore</div><i class="nav-sprite hmenu-arrow-next"></i>
                     </a></li>
                   <li class="hmenu-separator"></li>
@@ -89,110 +88,6 @@
                   <li><a href="" class="hmenu-item" data-menu-id="7" data-ref-tag="nav_em_1_1_1_8">
                       <div>Smart Home</div><i class="nav-sprite hmenu-arrow-next"></i>
                     </a></li>
-                  <li><a href="" class="hmenu-item" data-menu-id="8" data-ref-tag="nav_em_1_1_1_9">
-                      <div>Arte y Artesanías</div><i class="nav-sprite hmenu-arrow-next"></i>
-                    </a></li>
-                  <ul class="hmenu-compress-section compressed">
-                    <li class="hmenu-mini-divider"></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="9" data-ref-tag="nav_em_1_1_1_10">
-                        <div>Automotriz</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="10" data-ref-tag="nav_em_1_1_1_11">
-                        <div>Bebé</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="11" data-ref-tag="nav_em_1_1_1_12">
-                        <div>Belleza y Cuidado Personal</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="12" data-ref-tag="nav_em_1_1_1_13">
-                        <div>Moda para Mujer</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="13" data-ref-tag="nav_em_1_1_1_14">
-                        <div>Moda para Hombre</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="14" data-ref-tag="nav_em_1_1_1_15">
-                        <div>Moda para Niña</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="15" data-ref-tag="nav_em_1_1_1_16">
-                        <div>Moda para Niño</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="16" data-ref-tag="nav_em_1_1_1_17">
-                        <div>Salud y Hogar</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="17" data-ref-tag="nav_em_1_1_1_18">
-                        <div>Hogar y Cocina</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="18" data-ref-tag="nav_em_1_1_1_19">
-                        <div>Industrial y Científico</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="19" data-ref-tag="nav_em_1_1_1_20">
-                        <div>Equipaje</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="20" data-ref-tag="nav_em_1_1_1_21">
-                        <div>Películas y Televisión</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="21" data-ref-tag="nav_em_1_1_1_22">
-                        <div>Insumos para mascotas</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="22" data-ref-tag="nav_em_1_1_1_23">
-                        <div>Software</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="23" data-ref-tag="nav_em_1_1_1_24">
-                        <div>Deportes y Aire Libre</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="24" data-ref-tag="nav_em_1_1_1_25">
-                        <div>Herramientas y Mejoramiento del Hogar</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="25" data-ref-tag="nav_em_1_1_1_26">
-                        <div>Juguetes y juegos</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                    <li><a href="" class="hmenu-item" tabindex="-1" data-menu-id="26" data-ref-tag="nav_em_1_1_1_27">
-                        <div>Videojuegos</div><i class="nav-sprite hmenu-arrow-next"></i>
-                      </a></li>
-                  </ul>
-                  <li><a class="hmenu-item hmenu-compressed-btn" href="">
-                      <div>ver todo</div><i class="nav-sprite hmenu-arrow-more"></i>
-                    </a><a class="hmenu-item hmenu-expanded-btn" href="">
-                      <div>ver menos</div><i class="nav-sprite hmenu-arrow-less"></i>
-                    </a></li>
-                  <li class="hmenu-separator"></li>
-                  <li>
-                    <div class="hmenu-item hmenu-title ">programas y funcionalidades</div>
-                  </li>
-                  <li><a href="" class="hmenu-item" data-menu-id="27" data-ref-tag="nav_em_1_1_1_29">
-                      <div>Tarjetas de Regalo</div><i class="nav-sprite hmenu-arrow-next"></i>
-                    </a></li>
-                  <li><a href="/-/es/finds?ref_=nav_em_allpf_foundit_d_0_1_1_30" class="hmenu-item">Comprar por interés</a></li>
-                  <li><a href="" class="hmenu-item" data-menu-id="28" data-ref-tag="nav_em_1_1_1_31">
-                      <div>Amazon Live</div><i class="nav-sprite hmenu-arrow-next"></i>
-                    </a></li>
-                  <li><a href="" class="hmenu-item" data-menu-id="29" data-ref-tag="nav_em_1_1_1_32">
-                      <div>Tienda Internacional</div><i class="nav-sprite hmenu-arrow-next"></i>
-                    </a></li>
-                  <ul class="hmenu-compress-section compressed">
-                    <li class="hmenu-mini-divider"></li>
-                    <li><a href="/-/es/amsc?ref_=nav_em__amsc_hamburger_0_1_1_33" class="hmenu-item" tabindex="-1">Amazon Second Chance</a></li>
-                  </ul>
-                  <li><a class="hmenu-item hmenu-compressed-btn" href="">
-                      <div>ver todo</div><i class="nav-sprite hmenu-arrow-more"></i>
-                    </a><a class="hmenu-item hmenu-expanded-btn" href="">
-                      <div>ver menos</div><i class="nav-sprite hmenu-arrow-less"></i>
-                    </a></li>
-                  <li class="hmenu-separator"></li>
-                  <li>
-                    <div class="hmenu-item hmenu-title ">ayuda y configuración</div>
-                  </li>
-                  <li><a href="/-/es/gp/css/homepage.html?ref_=nav_em_ya_0_1_1_35" class="hmenu-item">Tu Cuenta</a></li>
-                  <li><a href="/-/es/customer-preferences/edit/?preferencesReturnUrl=%2F&amp;ref_=nav_em_mozart_0_1_1_36" id="hmenu-icp-language" class="hmenu-item">
-                      <div class="hmenu-icon-container"><i class="icon-css-reset icp-nav-globe-img-2 icp-mobile-globe-2"></i></div>Español
-                    </a></li>
-                  <li><a href="/-/es/customer-preferences/country/?ref_=nav_em_locale_0_1_1_37" class="hmenu-item">
-                      <div class="hmenu-icon-container"><i class="icon-css-reset icp-flag-3 icp-flag-3-us"></i></div>Estados Unidos
-                    </a></li>
-                  <li><a href="/-/es/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_em_cs_hm_0_1_1_38" class="hmenu-item">Servicio al Cliente</a></li>
-                  <li><a class="hmenu-item" onclick="$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '')">Identifícate</a></li>
-                </ul>
-
-
               </ul>
             </div>
           </a>
@@ -251,8 +146,10 @@
 
   
   <main>
+    
+  
     <div class="container">
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
   <!--no tocar-->
         <!--Carta sus-->
         <div class="col">
@@ -266,8 +163,6 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-primary" id="liveAlertBtn">Show live alert</button>
-
-
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
               </div>
@@ -682,7 +577,7 @@
             </div>
           </div>
         </div>
-
+        <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/bohemian.jpg">
@@ -701,7 +596,7 @@
             </div>
           </div>
         </div>
-
+          <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/pedalera.jpg">
@@ -720,7 +615,7 @@
             </div>
           </div>
         </div>
-
+            <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/mesa.jpg">
@@ -739,6 +634,7 @@
             </div>
           </div>
         </div>
+         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
             <img src="imagenes/productos/bateria.webp">
@@ -752,14 +648,16 @@
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
-
               </div>
             </div>
           </div>
         </div>
-
       </div>
       
+          
+
+
+
       <nav aria-label="Page navigation example">
   <ul class="pagination justify-content-center">
     <li class="page-item disabled">
@@ -830,7 +728,7 @@
 				<div class="footer-icons">
 
 					<a href="#"><i class="fa fa-facebook"></i></a>
-					<a href="https://twitter.com/?lang=es"><i class="fa-brands fa-twitter fa-fade" style="color: #00e1ff;"></i>></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
 					<a href="#"><i class="fa fa-linkedin"></i></a>
 					<a href="#"><i class="fa fa-github"></i></a>
 
