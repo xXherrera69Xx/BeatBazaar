@@ -13,7 +13,7 @@
   <div class="card">
     <div class="product-left">
       <div class="header">
-        <h1>Album "C" (Digital)</h1>
+        <h1>Álbum "Diverse Focus Feryquitous" (Digital)</h1>
         <h2>Artista:Feryquitous</h2>
       </div>
       <!--DESCRIPITON / DETAILS-->
@@ -59,7 +59,7 @@ Ordirehv <br/>
       </div>
     </div>
     <div class="product-right">
-      <img src="imagenes/productos/3/c.jpeg" alt="">
+      <img src="imagenes/productos/4/centralnuc.jpeg" alt="">
     </div>
   </div>
 </div>
@@ -67,15 +67,3 @@ Ordirehv <br/>
 
 
 
-
-
-
-
-
-
-
-
-
-    
-</body>
-</html>

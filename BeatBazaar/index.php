@@ -162,7 +162,8 @@
               <p class="card-text">$2500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-primary" id="liveAlertBtn">Show live alert</button>
+                <a href="centranu.php"><button type="button" class="btn btn-outline-info">Detalles</button></a>  
+     
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
               </div>
@@ -181,6 +182,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-outline-info">Detalles</button>
+                  <a href="detallesproducto.php">elpapu</a>
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
@@ -198,7 +200,8 @@
               <p class="card-text">$2500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-outline-info">Detalles</button>
+                <a href="album.php"> <button type="button" class="btn btn-outline-info">Detalles</button></a>
+                  
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
@@ -216,7 +219,7 @@
               <p class="card-text">$2500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-outline-info">Detalles</button>
+                <a href="album2.php"> <button type="button" class="btn btn-outline-info">Detalles</button></a>
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
