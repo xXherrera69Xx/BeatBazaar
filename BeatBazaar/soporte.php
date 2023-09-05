@@ -37,8 +37,35 @@
         *Visa</br>
         *Paypal</br>
         *Mercado pago</br>
+        *Transferencias bancarias</br>
+
+
         
       </p>
+      </div>
+       <div class="faq">
+      <button class="accordion">
+        Puedo pedir un rembolso?
+        <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
+      </button>  
+      <div class="panel">
+
+      <p>El rembolso de un producto solo se pude realizar 
+        si solo dicho producto esta en el estado en el que se entrego
+        El tiempo de devolucion de producto depende del mismo
+        No se aceptaran rembolsos si el producto esta en un estado diferenete al que se entrego,
+        fue manipaluado por terceros
+      </p>
+      </div>
+      </div>
+       <div class="faq">
+      <button class="accordion">
+        No encunetras una respuesta a tu pregunta?
+        <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
+      </button>  
+      <div class="panel">
+
+      <a href="album.php"> <button type="button" class="btn btn-outline-info">Detalles</button></a>
       </div>
       
 
