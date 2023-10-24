@@ -9,12 +9,12 @@
 </head>
 <body>
   <div class="wrapper">
-    <p>Necesitas ayuda?, Estamos aqui para vos</p>
+    <p>¿Necesitas ayuda?, Estamos aqui para vos</p>
     <h1>Preguntas Frecuentas</h1>
 
     <div class="faq">
       <button class="accordion">
-        Cuanto tarda en llegar mi compra?
+        ¿Cuanto tarda en llegar mi compra?
         <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
       </button>  
       <div class="panel">
@@ -27,7 +27,7 @@
       </div>
       <div class="faq">
       <button class="accordion">
-        Que medios de pago aceptan?
+        ¿Que medios de pago aceptan?
         <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
       </button>  
       <div class="panel">
@@ -38,6 +38,7 @@
         *Paypal</br>
         *Mercado pago</br>
         *Transferencias bancarias</br>
+        *En efectivo</br>
 
 
         
@@ -45,7 +46,7 @@
       </div>
        <div class="faq">
       <button class="accordion">
-        Puedo pedir un rembolso?
+        ¿Puedo pedir un rembolso?
         <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
       </button>  
       <div class="panel">
@@ -60,7 +61,7 @@
       </div>
        <div class="faq">
       <button class="accordion">
-        No encunetras una respuesta a tu pregunta?
+        ¿No encunetras una respuesta a tu pregunta?
         <i class="fa-sharp fa-solid fa-plus" style="color: #00d5ff;"></i>
       </button>  
       <div class="panel">

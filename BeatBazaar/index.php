@@ -91,9 +91,11 @@
               </ul>
             </div>
           </a>
+  
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
+            <button class="carroshop">Carrito</button>
 
 
           </button>
@@ -165,7 +167,7 @@
                 <a href="centranu.php"><button type="button" class="btn btn-outline-info">Detalles</button></a>  
      
                 </div>
-                <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
+                <button class="btn btn-outline-info" type="button" onclick="" >Agregar al carrito</button>
               </div>
            
             </div>
@@ -181,8 +183,7 @@
               <p class="card-text">$2500</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-outline-info">Detalles</button>
-                  <a href="detallesproducto.php">elpapu</a>
+                <a href="centranu.php"><button type="button" class="btn btn-outline-info">Detalles</button></a>  
 
                 </div>
                 <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
@@ -398,7 +399,7 @@
         <!--Carta sus2-->
         <div class="col">
           <div class="card shadow-sm">
-            <img src="imagenes/productos/14/skorn.jpg">
+            <img src="imagenes/productos/14/korn.jpg">
 
             <div class="card-body">
               <h5 class="card-text">Álbum "Korn" </h5>
