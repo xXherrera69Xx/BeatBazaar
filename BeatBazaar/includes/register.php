@@ -27,7 +27,7 @@ if (isset($_POST['register'])){
 
             echo'
             <script>
-               alert("Este correro ya esta registrado");
+               alert("Bienvenido a Beatbazaar");
                window.location = "index.php";
             </script>
             ';

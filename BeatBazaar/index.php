@@ -97,7 +97,22 @@ require 'includes/token.php';
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
-            <button class="carroshop">Carrito</button>
+            <button class="carroshop">carro</button>
+            <div class="contar-producto">
+              <span id="contar-producto">0</span>
+            </div>
+            <div class="contenercarroproescondido">
+             <div class="productocarta">
+              <div class="infocarproduct">
+                <span class="cantidadproducto">1</span>
+                <span class="nombreproducto">hola</span>
+                <span class="precioproducto">100</span>
+
+              </div>
+              <button class="cancel">X</button>
+             </div>
+
+            </div>
 
 
           </button>
@@ -172,7 +187,7 @@ require 'includes/token.php';
       <h5>  <?php echo $row['nombre']; ?> </h5>
       <p> <?php echo $row['precio']; ?> </p>
       <div class="btn-group">
-      <a href="detallesproducto.php?id=<?php echo $row['id']; ?>&token=<?php echo hash_hmac('sha1', $row['id'], KEY_TOKEN); ?>"><button type="button" class="btn btn-outline-info">Detalles</button></a>  
+      <a href="centranu.php"><button type="button" class="btn btn-outline-info">Detalles</button></a>  
       <button type="button" class="btn btn-outline-info">Agregar al carrito</button>
     </div>
     </div>
@@ -249,7 +264,7 @@ require 'includes/token.php';
 
 		</footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-
+<script src="js/index.js"></script>
 </body>
 
 </html>
