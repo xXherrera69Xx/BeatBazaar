@@ -1,0 +1,21 @@
+<?php
+
+session_start();
+
+if(!isset($_SESSION['usuario'])){
+
+  echo'
+      <script>
+      
+      alert("debes iniciar session en BeatBazaar");
+      window.location = "crearcuenta.php";
+      </script>  
+  ';
+  header(("location: crearcuenta.php"));
+  session_destroy();
+  die();
+
+}
+
+
+?>
