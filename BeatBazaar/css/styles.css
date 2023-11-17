@@ -1,0 +1,28 @@
+
+
+main > .container{
+    padding: 30px 0;
+    
+}
+.logo{
+    width: 60px;
+    height: 10%;
+      
+}
+
+.carousel-inner{
+
+    margin-top: 1rem;
+   font-family:  'Outfit', sans-serif;
+   font-size: 20px;
+
+}
+
+.carousel-item{
+    height: 40rem;
+    background: gray;
+    color: aqua;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
